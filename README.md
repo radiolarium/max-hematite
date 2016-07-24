@@ -8,3 +8,7 @@ Code is a Max7 Project. For M4L version see releases.
 ## Screenshot
 
 ![Screenshot](hematite.png)
+
+## Sound examples
+
+[Soundcloud](https://soundcloud.com/radiolarium/hematite-05-demo)
